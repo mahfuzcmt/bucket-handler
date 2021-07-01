@@ -1,0 +1,11 @@
+sourceFileLoc: "/sa-operational-resource/binary-repo"
+sourceFileName: "application-binary.war"
+outputLocation: "/sa-operational-resource/aws"
+bucketName: "webcommander-dev"
+copyWar: true
+extractWar: true
+cleanOutputLoc: true
+cleanS3: true
+copyToS3: true
+showS3Dir: true
+ 

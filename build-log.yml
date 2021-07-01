@@ -1,0 +1,11 @@
+---
+buildBy: "CLI Administrator"
+appVersion: "4.0.0"
+releaseVersion: "1.0.0"
+appName: "WebCommander"
+buildMoment: "30 June 2021 07:12:37 PM AEST"
+codeVCSLog: "82e0627134a02b8025c17b90af215bc2c43d0d1d"
+vcsBranch: "s3-amazon"
+buildNumber: "300621-300621-82e06271"
+otherInformation:
+  plugins: 79
